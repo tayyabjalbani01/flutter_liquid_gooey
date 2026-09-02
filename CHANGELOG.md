@@ -1,3 +1,7 @@
+## 0.0.2
+
+* Update documentation asset URLs to raw GitHub URLs for full rendering on pub.dev.
+
 ## 0.0.1
 
 * Initial release of `flutter_liquid_gooey`.

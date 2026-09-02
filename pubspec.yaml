@@ -1,6 +1,6 @@
 name: flutter_liquid_gooey
 description: A 120Hz liquid glass and gooey fluid physics framework for Flutter powered by GPU Impeller fragment shaders and Euler spring physics.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/tayyabjalbani01/flutter_liquid_gooey
 repository: https://github.com/tayyabjalbani01/flutter_liquid_gooey
 issue_tracker: https://github.com/tayyabjalbani01/flutter_liquid_gooey/issues

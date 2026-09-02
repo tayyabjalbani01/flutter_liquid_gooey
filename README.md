@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Flutter Liquid Gooey Logo" width="220" />
+  <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/logo.png" alt="Flutter Liquid Gooey Logo" width="220" />
   <h1>Flutter Liquid Gooey</h1>
   <p>120Hz liquid glass and gooey fluid physics framework for Flutter powered by Impeller fragment shaders, 240Hz Euler spring physics, and zero-rebuild vector painters.</p>
 
-  <video src="assets/gifs/full_showcase_flutter_liquid_gooey.mp4" controls width="100%"></video>
-  <p><a href="assets/gifs/full_showcase_flutter_liquid_gooey.mp4"><strong>Watch Full Showcase Demo Video</strong></a></p>
+  <video src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/full_showcase_flutter_liquid_gooey.mp4" controls width="100%"></video>
+  <p><a href="https://github.com/tayyabjalbani01/flutter_liquid_gooey/raw/main/assets/gifs/full_showcase_flutter_liquid_gooey.mp4"><strong>Watch Full Showcase Demo Video</strong></a></p>
 </div>
 
 ---
@@ -53,9 +53,9 @@ Flutter gives us access to native GPU rendering through Impeller and custom GLSL
 
 | Expandable Plus Menu | Email Input Unmerging | Interactive iOS Wobble |
 |:---:|:---:|:---:|
-| <img src="assets/gifs/plus_fab.gif" width="220" alt="Plus Menu Demo" /> | <img src="assets/gifs/text_field.gif" width="220" alt="Email Input Demo" /> | <img src="assets/gifs/button.gif" width="220" alt="iOS Button Demo" /> |
+| <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/plus_fab.gif" width="220" alt="Plus Menu Demo" /> | <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/text_field.gif" width="220" alt="Email Input Demo" /> | <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/button.gif" width="220" alt="iOS Button Demo" /> |
 | **Draggable Rubber Card** | **Segmented Tab Bar** | **Proximity Avatar Merge** |
-| <img src="assets/gifs/drag_wobble.gif" width="220" alt="Rubber Card Demo" /> | <img src="assets/gifs/tabs.gif" width="220" alt="Tabs Demo" /> | <img src="assets/gifs/circle_merge.gif" width="220" alt="Circle Merge Demo" /> |
+| <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/drag_wobble.gif" width="220" alt="Rubber Card Demo" /> | <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/tabs.gif" width="220" alt="Tabs Demo" /> | <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/circle_merge.gif" width="220" alt="Circle Merge Demo" /> |
 
 [Back to Top](#table-of-contents)
 
@@ -258,7 +258,7 @@ LiquidItem(
 ### Recipe A: Expandable Plus Menu
 
 <div align="center">
-  <img src="assets/gifs/plus_fab.gif" width="280" alt="Expandable Plus Menu Demo" />
+  <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/plus_fab.gif" width="280" alt="Expandable Plus Menu Demo" />
 </div>
 
 ```dart
@@ -369,7 +369,7 @@ class _MyPlusMenuState extends State<MyPlusMenu> with SingleTickerProviderStateM
 ### Recipe B: Email Input with Unmerging Send Button
 
 <div align="center">
-  <img src="assets/gifs/text_field.gif" width="340" alt="Email Input Unmerging Demo" />
+  <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/text_field.gif" width="340" alt="Email Input Unmerging Demo" />
 </div>
 
 ```dart
@@ -473,7 +473,7 @@ class _MyEmailInputState extends State<MyEmailInput> with SingleTickerProviderSt
 ### Recipe C: Interactive iOS Press Wobble Button
 
 <div align="center">
-  <img src="assets/gifs/button.gif" width="260" alt="iOS Button Press Demo" />
+  <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/button.gif" width="260" alt="iOS Button Press Demo" />
 </div>
 
 ```dart
@@ -513,7 +513,7 @@ class MyIosButton extends StatelessWidget {
 ### Recipe D: Draggable Rubber Card with Velocity Bowing
 
 <div align="center">
-  <img src="assets/gifs/drag_wobble.gif" width="340" alt="Rubber Card Drag Demo" />
+  <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/drag_wobble.gif" width="340" alt="Rubber Card Drag Demo" />
 </div>
 
 ```dart
@@ -567,7 +567,7 @@ class _MyRubberCardState extends State<MyRubberCard> {
 ### Recipe E: Segmented Liquid Tab Bar
 
 <div align="center">
-  <img src="assets/gifs/tabs.gif" width="340" alt="Segmented Tabs Demo" />
+  <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/tabs.gif" width="340" alt="Segmented Tabs Demo" />
 </div>
 
 ```dart
@@ -607,7 +607,7 @@ class MyLiquidTabBar extends StatelessWidget {
 ### Recipe F: Proximity Avatar Merge
 
 <div align="center">
-  <img src="assets/gifs/circle_merge.gif" width="280" alt="Circle Merge Demo" />
+  <img src="https://raw.githubusercontent.com/tayyabjalbani01/flutter_liquid_gooey/main/assets/gifs/circle_merge.gif" width="280" alt="Circle Merge Demo" />
 </div>
 
 ```dart
