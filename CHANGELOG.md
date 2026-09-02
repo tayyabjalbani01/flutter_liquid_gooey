@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Update video showcase link to GitHub in-browser video player.
+
 ## 0.0.2
 
 * Update documentation asset URLs to raw GitHub URLs for full rendering on pub.dev.
