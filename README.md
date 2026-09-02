@@ -4,8 +4,8 @@
   <p>120Hz liquid glass and gooey fluid physics framework for Flutter powered by Impeller fragment shaders, 240Hz Euler spring physics, and zero-rebuild vector painters.</p>
 
   <p>
-    <a href="https://github.com/tayyabjalbani01/flutter_liquid_gooey/blob/main/assets/gifs/full_showcase_flutter_liquid_gooey.mp4">
-      <strong>▶ Watch Full Showcase Video on GitHub</strong>
+    <a href="https://youtube.com/shorts/FXs6xHlQ_Iw">
+      <strong>▶ Watch Full Showcase Video on YouTube</strong>
     </a>
   </p>
 </div>

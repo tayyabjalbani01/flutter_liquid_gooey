@@ -1,3 +1,7 @@
+## 0.0.4
+
+* Support up-to-date dependencies with widened `flutter_hooks` constraint (`>=0.20.5 <0.22.0`).
+
 ## 0.0.3
 
 * Update video showcase link to GitHub in-browser video player.
